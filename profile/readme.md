@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-Uno - Antislop Software Factory
+Uno - Your team's software factory
